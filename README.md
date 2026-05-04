@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ملاك الحب في ليلي الطويل
+> نورك الساحر على قلبي دليل
+> تعالي نعيش في هذا الخيال
+> حبك في دمي سحر وجمال
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
