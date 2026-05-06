@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Malak El Hob |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/malak-el-hob/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get Permission to Use Malak El Hob](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
