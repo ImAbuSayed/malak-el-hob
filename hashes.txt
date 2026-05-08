@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Malak El Hob
+
+This log tracks the cryptographic history and versioning for the song **Malak El Hob** (malak-el-hob).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T19:55:09.598969 | `v1` | `acda0e2274762292cfc4af2785a187506ff0f81be5d39c27533a370feeafbcf4` | `4fd4ce6e33282ae0e963d70b66daac124650d88b605646d3dfcb22cd73c42fb5` | `2026-05-08_malak-el-hob-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
